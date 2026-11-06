@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ansible-community/meetup-pretix-discourse-auth/commit/dac1e5ea2e8786bbef633c917c020f0b1966572b",
       "git:hexsha": "dac1e5ea2e8786bbef633c917c020f0b1966572b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
