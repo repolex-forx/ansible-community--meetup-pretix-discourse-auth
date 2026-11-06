@@ -1,0 +1,11 @@
+{
+  "org": "ansible-community",
+  "repo": "meetup-pretix-discourse-auth",
+  "versions": [
+    {
+      "commit": "dac1e5ea2e8786bbef633c917c020f0b1966572b",
+      "tag": "",
+      "parsed_at": "2026-11-06T19:42:26.554780+00:00"
+    }
+  ]
+}
